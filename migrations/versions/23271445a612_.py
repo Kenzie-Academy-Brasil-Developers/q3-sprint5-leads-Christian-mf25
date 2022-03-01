@@ -1,8 +1,8 @@
-"""feat: criado modal leads
+"""empty message
 
-Revision ID: a69e2306e25c
+Revision ID: 23271445a612
 Revises: 
-Create Date: 2022-02-10 23:16:45.414808
+Create Date: 2022-03-01 14:26:57.865592
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = 'a69e2306e25c'
+revision = '23271445a612'
 down_revision = None
 branch_labels = None
 depends_on = None
