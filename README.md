@@ -13,12 +13,10 @@ https://leads-kenzie-project.herokuapp.com/
   Enpoints
 </h2>
 
-#
 
 A API conta com 4 endpoints, sendo eles para criar, atualizar, deletar e pegar leads criados. Nehuma rota necessita de autenticação.
 
 ## Criar lead
-#
 
 `POST/leads - FORMATO DA REQUISIÇÃO`
 
@@ -49,7 +47,6 @@ Caso a requisição seja bem sucedida receberá a resposta:
 
 
 ## Pegar leads
-#
 
 `GET/leads - FORMATO DA RESPOSTA - STATUS 200`
 
@@ -77,7 +74,6 @@ Caso a requisição seja bem sucedida receberá a resposta:
 ```
 
 ## Atualizar leads
-#
 
 `PATCH/leads - FORMATO DA REQUISIÇÃO`
 
@@ -93,7 +89,6 @@ Caso a requisição seja bem sucedida receberá:
 
 
 ## Delete lead
-#
 
 `DELETE/leads - FORMATO DA REQUISIÇÃO`
 
