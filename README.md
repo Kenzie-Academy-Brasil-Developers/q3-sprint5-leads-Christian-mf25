@@ -6,7 +6,7 @@ Aplicação desenvolvida para poder escrever, atualizar e deletar leads.
 
 ### URL API
 
-https://alunos.kenzie.com.br/courses/66/pages/python-57-markdown?module_item_id=12883
+https://leads-kenzie-project.herokuapp.com/
 
 
 <h2 align="center">
