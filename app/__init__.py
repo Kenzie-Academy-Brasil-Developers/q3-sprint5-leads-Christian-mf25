@@ -15,4 +15,9 @@ def create_app():
     migration.init_app(app)
     routes.init_app(app)
 
+    @app.get("/")
+    def sla():
+        return "teste"
+
+
     return app
